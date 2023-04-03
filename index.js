@@ -6,3 +6,5 @@ console.log(cowsay.say({
     e : "oO",
     T : "U "
 }));
+
+export default Cowsay;
